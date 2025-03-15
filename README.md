@@ -2,7 +2,7 @@ This repository contains an algorithm for finding (approximate) Nash equilibria 
 
 The directory "original" contains our C++ implementation in the poker (Kuhn poker and Leduc hold'em) and NFG (10 different normal-form games) test environments. You can directly compile and execute the programs.
 
-The directory "open_spiel/python/algorithms" contains our Python implementation based on the OpenSpiel framework (https://github.com/google-deepmind/open_spiel). As we borrow the existing code of the NeuRD algorithm, please install OpenSpiel and place the programs in the corresponding directory in order to test it.
+The directory "open_spiel/python/algorithms" contains our Python implementation based on the OpenSpiel framework (https://github.com/google-deepmind/open_spiel). As the implementation adapts from the existing code of the NeuRD algorithm, please install OpenSpiel and place the programs in the corresponding directory in order to test it.
 
 While the C++ implementation runs much faster, the Python implementation allows you to test the algorithm in more environments provided by OpenSpiel. If you have any questions, please contact lurunyu17@mails.ucas.ac.cn.
 
