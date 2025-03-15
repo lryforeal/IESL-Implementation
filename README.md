@@ -4,7 +4,7 @@ The directory "original" contains our C++ implementation in the poker (Kuhn poke
 
 The directory "open_spiel/python/algorithms" contains our Python implementation based on the OpenSpiel framework (https://github.com/google-deepmind/open_spiel). As we borrow the existing code of the NeuRD algorithm, please install OpenSpiel and place the programs in the corresponding directory in order to test it.
 
-While the C++ implementation runs much faster, the Python implementation allows you to test IESL in more environments provided by OpenSpiel. If you have any questions, please contact lurunyu17@mails.ucas.ac.cn.
+While the C++ implementation runs much faster, the Python implementation allows you to test the algorithm in more environments provided by OpenSpiel. If you have any questions, please contact lurunyu17@mails.ucas.ac.cn.
 
 References:
 
