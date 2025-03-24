@@ -10,4 +10,4 @@ References:
 
 [1] Runyu Lu, Yuanheng Zhu, Dongbin Zhao, Yu Liu, and You He. Last-iterate convergence to approximate Nash equilibria in multiplayer imperfect information games. IEEE Transactions on Neural Networks and Learning Systems, pp. 1–15, 2024. doi:10.1109/TNNLS.2024.3516693.
 
-[2] Runyu Lu, Yuanheng Zhu, and Dongbin Zhao. Divergence-regularized discounted aggregation: Equilibrium finding in multiplayer partially observable stochastic games. In The Thirteenth International Conference on Learning Representations, 2025. URL https://openreview.net/forum?id=KD5nJUgeW4.
+[2] Runyu Lu, Yuanheng Zhu, and Dongbin Zhao. Divergence-regularized discounted aggregation: Equilibrium finding in multiplayer partially observable stochastic games. In the Thirteenth International Conference on Learning Representations, 2025. URL https://openreview.net/forum?id=KD5nJUgeW4.
